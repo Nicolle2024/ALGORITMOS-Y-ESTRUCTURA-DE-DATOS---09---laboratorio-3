@@ -10,7 +10,7 @@ public class BM {
         return m; // O(1)
     }
     public static void main(String[] args) {
-        int[] v = {1, 5, 3, 9};
+        int[] v = {2, 7, 6, 10};
         System.out.println("Max: " + BM(v));
     }
 }
